@@ -1,0 +1,64 @@
+.button, .header-nav__button, .test-class {
+  color: white;
+  background: blue;
+  padding: 10px 0;
+  border: none;
+  width: 400px;
+}
+
+.test-class {
+  padding: 10px;
+}
+
+.header {
+  background: red;
+  color: #fefefe;
+  height: 100px;
+  width: 100px;
+  font-family: "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  color: white;
+}
+.header-nav {
+  width: 100%;
+  height: 100%;
+}
+.header-nav__item {
+  width: 100%;
+  height: 100%;
+}
+.header-nav__item a {
+  color: #fefefe;
+}
+.header-nav__item a:hover {
+  color: green;
+}
+.header-nav__item a:active {
+  color: blue;
+}
+.header-nav__item:hover {
+  background: red;
+}
+.header-nav__button {
+  margin: 20px 0;
+}
+
+.main {
+  font-family: "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 60px;
+  color: black;
+}
+
+.footer {
+  font-family: "Sans", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 60px;
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
